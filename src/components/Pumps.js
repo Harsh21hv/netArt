@@ -9,7 +9,7 @@ const Pumps = () => {
       </div>
 
       <div className='flex justify-center '>
-        <p className='mt-4 text-sm mb-5 '>
+        <p className='mt-4 text-sm mb-5 max-lg:mx-6'>
           Valves - Pumps - Pipes - Iot drivers & Controllers - Wires & Cables -
           Solar Systems - Motors
         </p>
